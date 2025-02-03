@@ -6,7 +6,7 @@ The essential package and recommened version to run the code:
 
 ## Dataset
 The MMEA-data and ECS-results can be download from [GoogleDrive](https://drive.google.com/drive/folders/1wfErYdAV93yxPtPHqkGanbmb_Ztv-LRU?usp=drive_link).
-The original MMEA dataset can be download from MMKB and MMEA. 
+The original MMEA dataset can be download from [MMKB](https://github.com/mniepert/mmkb) and [MMEA](https://github.com/lzxlin/mclea?tab=readme-ov-file). 
 Those files should be organized into the following file hierarchy:
 
 - EIEA
